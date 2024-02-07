@@ -1,4 +1,5 @@
 00:00;Torneo de Córdoba 1ª Ronda;TA. Tirante;F. Comesana;ATP Tennis TV;
+01:30;NBA Liga Regular;Miami Heat;Orlando Magic;M+ Deportes (63);
 02:00;Torneo de Dallas 1ª Ronda;J. Thompson;A. Neff;ATP Tennis TV;
 03:30;Torneo de Dallas 1ª Ronda;D. Koepfer;A. Kovacevic;ATP Tennis TV;
 07:00;WTA Torneo de Abu Dhabi 2ª Ronda;D. Kasatkina;A. Krueger;WTA TV;DAZN (Regístrate);
@@ -26,3 +27,4 @@
 20:00;FIBA Europe Cup Segunda Ronda;Casademont Zaragoza;Manisa BBSK;FIBA YouTube;Aragón Deporte;
 20:30;Eurocup Liga Regular;London Lions;BC Wolves;EuroLeague TV;
 20:45;Eurocup Liga Regular;Paris Basketball;Olimpija Ljubljana;EuroLeague TV;
+21:30;Copa del Rey Semifinales;At. Madrid;Athletic Club;M+ Copa del Rey (M52 O108);Movistar Plus+ (M7);M+ Liga de Campeones (M60 O114);La 1 TVE;M+ Liga de Campeones 2 (M61 O116);RTVE Play;ETB1 (País Vasco);
